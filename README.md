@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+![CleanShot 2022-10-25 at 17 46 54](https://user-images.githubusercontent.com/43479094/197728112-0cded802-8c57-4844-a7a5-f743d5aa6adb.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
